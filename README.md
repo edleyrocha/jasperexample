@@ -14,4 +14,4 @@
 
 ## Installation ##
 - Import to create a new database & table with 'init.sql' script within the project root folder.
-- Change to your mysql accessable username & password within the 'hibernate.properties' file.
+- Change to your mysql username & password in 'hibernate.properties' file.
