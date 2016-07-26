@@ -2,7 +2,7 @@
 ![alt text](http://i.imgur.com/m2VbdOZ.png)
 
 - Jasper Report example with Java Swing UI
-- Two Jasper Report mode, 1. Used Field Definition JRBeanCollectionDataSource, 2. Used DB Connection Adapter.
+- There're 2 Jasper Report mode, 1. Used Field Definition JRBeanCollectionDataSource, 2. Used DB Connection Adapter.
 - Used Hibernate JPA as Persistent Layer Framework.
 
 ## Technology ##
